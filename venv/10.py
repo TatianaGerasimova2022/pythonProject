@@ -6,6 +6,7 @@ def get_weather_by_city(city_name):
     return weather
 # print(get_weather_by_city('Kazan'))
 print(get_weather_by_city('Praha'))
+print(get_weather_by_city('Praha123'))
 # print(weather)
 # print(type(weather))
 # print(weather.keys())
